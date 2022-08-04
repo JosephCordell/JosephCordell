@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">A full stack developer from Seattle, WA</h3>
 
-- 🔭 I’m currently working on **a music search website**
+- 🔭 I’m currently working on **a kata tournament website**
 
 - 🌱 I’m currently learning **algorithms and python**
 
